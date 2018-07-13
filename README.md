@@ -8,6 +8,8 @@ There is a video which explain the code and show the behaviour.
 
 https://youtu.be/fOWNWmtCJY8
 
+[![Video demo about this project](https://img.youtube.com/vi/fOWNWmtCJY8/0.jpg)](https://www.youtube.com/watch?v=fOWNWmtCJY8)
+
 For any question you can open an issue or just contact me on oriol@joor.net
 
 
